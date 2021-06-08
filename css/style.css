@@ -940,13 +940,13 @@ div[data-role="editor-toolbar"] {
 .toggle-nav {
     float: left;
     padding-right: 15px;
-    margin-top: 20px;
+    margin-top: 12px;
 }
 
 .toggle-nav .icon-reorder {
     cursor: pointer;
     display: inline-block;
-    font-size: 20px;
+    font-size:30px;
 }
 
 
