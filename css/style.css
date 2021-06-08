@@ -1597,6 +1597,7 @@ ul.ft-link li a i {
 .profile-widget p{
     font-weight: 300;
     /*margin-bottom: 15px;*/
+    text-align: center;
 }
 .profile-widget{
     /*padding-left: 20px 15px 30px 15px;*/
@@ -1680,6 +1681,7 @@ ul.ft-link li a i {
     font-size: 12px;
     color: rgba(255,255,255,0.9);
     font-weight: 300;
+    text-align: center;
 }
 .profile-widget h6 span i{
     padding-right: 4px;
