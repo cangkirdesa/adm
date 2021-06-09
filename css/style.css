@@ -997,7 +997,7 @@ div[data-role="editor-toolbar"] {
 
 .state-overview .symbol {
     width: 30%;
-    padding: 25px 15px;    
+    padding: 35px 15px;    
 }
 
 .state-overview .value {
@@ -2587,7 +2587,7 @@ ul.summary-list > li {
     height: 180px;
     width: 19.5%;
     text-align: center;
-    padding-top: 30px;
+    padding: 7px 0 10px 0;
 }
 
 ul.summary-list > li > a > i {
