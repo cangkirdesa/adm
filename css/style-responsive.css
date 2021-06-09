@@ -15,11 +15,12 @@
 }
 
 @media (max-width: 768px) {
-
     .header {
         position: absolute;
     }
-
+    .top-nav ul.top-menu > li {
+        display: none;
+    }
     /*sidebar*/
 
     #sidebar {
@@ -29,7 +30,12 @@
         width: 100%;
         z-index: 1001;
     }
-
+#sidebar ul > li > a .menu-arrow { 
+    float: right;    
+    right: 23px;
+    text-align: right;
+    position: absolute;
+}
 
     /* body container */
     #main-content {
