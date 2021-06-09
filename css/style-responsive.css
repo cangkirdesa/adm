@@ -36,8 +36,9 @@
 #sidebar ul > li > a .menu-arrow { 
     float: right;    
     right: 23px;
+    margin-top: -2px;
     text-align: right;
-    position: absolute;
+    position: fixed;
 }
 
     /* body container */
