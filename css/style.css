@@ -2584,7 +2584,7 @@ ul.summary-list {
 
 ul.summary-list > li {
     display: inline-block;
-    height: 180px;
+    height: 160px;
     width: 19.5%;
     text-align: center;
     padding: 7px 0 10px 0;
