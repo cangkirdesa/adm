@@ -2584,7 +2584,7 @@ ul.summary-list {
 
 ul.summary-list > li {
     display: inline-block;
-    height: 160px;
+    height:145px;
     width: 19.5%;
     text-align: center;
     padding: 7px 0 10px 0;
@@ -2609,7 +2609,19 @@ ul.summary-list > li  {
 ul.summary-list > li:last-child  {
     border-right: none;
 }
-
+ul.summary-list > li img{
+    border: 3px solid #818181;
+    width: 80px;
+    display: inline-block;
+    height: 80px;
+    padding: 3px;
+    border-radius: 50%;
+	margin-top: 10px;
+}
+ul.summary-list > li p{
+	padding-top: 10px;
+}
+#PopularPosts1,.dte_post-title,.related{display:none}
 .activity {
     width: 100%;
     float: left;
