@@ -21,6 +21,9 @@
     .top-nav ul.top-menu > li {
         display: none;
     }
+    .search-row {
+        float: right;
+    }
     /*sidebar*/
 
     #sidebar {
